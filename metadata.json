@@ -1,0 +1,5 @@
+{
+  "name": "FaceWriter - AI Text Creation Tool",
+  "description": "A web-first smart writing platform that combines a modern editor, writing copilot, and real-time assistance to create, review, optimize, and publish content. This application provides an IDE-inspired layout for a comprehensive content creation experience.",
+  "requestFramePermissions": []
+}
